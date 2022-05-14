@@ -144,36 +144,40 @@ h2{
    font-size: 38px;
    line height: 50px;
    letter-spacing: 1px;
-   }
-   h4{
-      font-weight: 600;
-      font-size: 38px;
-      line height: 50px;
-      letter-spacing: 1px;
-   }
-   h3{
-      font-size: 38px;
-     line-height: 50px;
-     font-weight: 600;
-   }
-     .header-1 .spacing
+}
+h4{
+   font-weight: 600;
+   font-size: 38px;
+   line height: 50px;
+   letter-spacing: 1px;
+}
+h3{
+   font-size: 38px;
+   line-height: 50px;
+   font-weight: 600;
+ }
+.header-1 .spacing
 {
    margin-top: 10px;
-   }
-   .header-1 p
+}
+.header-1 p
 {
-      margin-top: 0px;
-   }
- .paragraph-1
+   margin-top: 0px;
+}
+.paragraph-1
 {
    font-size: 18px;
-   }
-   .paragraph-3
+}
+.paragraph-2
 {
-      font-size: 16px;
-   }
-   .paragraph-4
+   font-size: 18px;
+}
+.paragraph-3
 {
-      font-size: 18px;
-   }
+   font-size: 16px;
+}
+.paragraph-4
+{
+   font-size: 18px;
+}
 }
